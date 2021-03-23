@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BizCardReader.Console": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "GOOGLE_APPLICATION_CREDENTIALS": "C:\\Users\\shinn\\Downloads\\My First Project-7a20d2f48339.json"
+      }
+    }
+  }
+}

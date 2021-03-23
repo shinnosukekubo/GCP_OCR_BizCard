@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "7A5SWJQUJG80gNbQK5aVC7n9iFheOCL7lZB583HCCH++cfVHQ9Njc8Shrmn/tjK+CCJ5h14qDOfu8MUvA8LIoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shinn\\source\\repos\\BizCardReader.Console\\BizCardReader.Console\\BizCardReader.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shinn\\.nuget\\packages\\google.api.commonprotos\\2.2.0\\google.api.commonprotos.2.2.0.nupkg.sha512",
+    "C:\\Users\\shinn\\.nuget\\packages\\google.api.gax\\3.2.0\\google.api.gax.3.2.0.nupkg.sha512",
+    "C:\\Users\\shinn\\.nuget\\packages\\google.api.gax.grpc\\3.2.0\\google.api.gax.grpc.3.2.0.nupkg.sha512",
+    "C:\\Users\\shinn\\.nuget\\packages\\google.api.gax.grpc.grpccore\\3.2.0\\google.api.gax.grpc.grpccore.3.2.0.nupkg.sha512",
+    "C:\\Users\\shinn\\.nuget\\packages\\google.apis\\1.48.0\\google.apis.1.48.0.nupkg.sha512",
+    "C:\\Users\\shinn\\.nuget\\packages\\google.apis.auth\\1.48.0\\google.apis.auth.1.48.0.nupkg.sha512",
+    "C:\\Users\\shinn\\.nuget\\packages\\google.apis.core\\1.48.0\\google.apis.core.1.48.0.nupkg.sha512",
+    "C:\\Users\\shinn\\.nuget\\packages\\google.cloud.language.v1\\2.1.0\\google.cloud.language.v1.2.1.0.nupkg.sha512",
+    "C:\\Users\\shinn\\.nuget\\packages\\google.cloud.vision.v1\\2.2.0\\google.cloud.vision.v1.2.2.0.nupkg.sha512",
+    "C:\\Users\\shinn\\.nuget\\packages\\google.longrunning\\2.1.0\\google.longrunning.2.1.0.nupkg.sha512",
+    "C:\\Users\\shinn\\.nuget\\packages\\google.protobuf\\3.13.0\\google.protobuf.3.13.0.nupkg.sha512",
+    "C:\\Users\\shinn\\.nuget\\packages\\grpc.auth\\2.31.0\\grpc.auth.2.31.0.nupkg.sha512",
+    "C:\\Users\\shinn\\.nuget\\packages\\grpc.core\\2.31.0\\grpc.core.2.31.0.nupkg.sha512",
+    "C:\\Users\\shinn\\.nuget\\packages\\grpc.core.api\\2.31.0\\grpc.core.api.2.31.0.nupkg.sha512",
+    "C:\\Users\\shinn\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\shinn\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\shinn\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\shinn\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
